@@ -3,7 +3,7 @@ I am a full-stack engineer and SaaS architect focused on building high convertin
 
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/jackcollmas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esowachukwuyem@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/2349139945094) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/jackcollmas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esowachukwuyem@gmail.com) 
 
 # 🚀 Featured Work:
 **[EonLearn](https://eonlearn.com)** | AI powered learning platform with FSRS spaced repetition, a four mode AI companion, multi source flashcard generation, and an MCP server for Claude integration. 37 models, 200+ API routes, running in production.<br>**[CashScout](https://cashscout.site)** | Real time cash opportunity community with role based access control, admin moderation, push notifications, and offline capable PWA delivery.<br>**[Ọjà Kitchen](https://oja-kitchen.vercel.app/)** | Scroll driven culinary platform for a West African restaurant brand, built on a zero hardcode CSS token system with serverless reservations.<br><br>[See the full archive](https://github.com/jackcollmas)
